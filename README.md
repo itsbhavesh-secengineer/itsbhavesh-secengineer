@@ -21,15 +21,22 @@
 
 ## 🧰 Tech Stack & Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entra%20ID-008AD7?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Defender%20for%20Endpoint-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+### 🧑‍💻 Core Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,powershell,windows,github,git,vscode,md,markdown" />
+</p>
+
+### ☁️ Cloud & Security Suite
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft%20365-blue?style=for-the-badge&logo=microsoft" />
+  <img src="https://img.shields.io/badge/Intune-blueviolet?style=for-the-badge&logo=microsoft" />
+  <img src="https://img.shields.io/badge/Entra%20ID-008AD7?style=for-the-badge&logo=microsoft" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Defender%20for%20Endpoint-0078D4?style=for-the-badge&logo=windows" />
   <img src="https://img.shields.io/badge/AWS%20Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
